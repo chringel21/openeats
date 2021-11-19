@@ -5,9 +5,6 @@
 ## Changes
 * removed docker structure for hosting on [uberspace](https://uberspace.de)
 
-## Install guide
-https://blog.kuntzsch.me/setting-up-a-self-hosted-recipe-management-site-openeats/
-
 ## Essential steps
 Make sure Virtualenv is ready
 
